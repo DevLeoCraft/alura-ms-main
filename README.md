@@ -8,7 +8,6 @@ Este repositório contém a implementação do projeto **Alura MS Main**, desenv
 - Comunicação via API entre serviços  
 - Autenticação e autorização  
 - Balanceamento de carga  
-- [Outras funcionalidades relevantes]
 
 ## 🏗️ Tecnologias Utilizadas
 
